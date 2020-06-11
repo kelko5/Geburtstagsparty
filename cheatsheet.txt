@@ -1,2 +1,4 @@
 git init
 Dieser Befehl erstellt ein neues Repository.
+
+Und jetzt wollen wir mal eine zweite Version erstellen...
